@@ -1,0 +1,5 @@
+names:
+- fire
+nc: 1
+train: fire-detection-data-pre-4/train/images
+val: fire-detection-data-pre-4/valid/images
